@@ -1,3 +1,5 @@
 This is a branch test text file for feature 1
 This is a branch test text file for feature 2
 This is a branch test text file for feature 12
+This is a branch test text file for branch1
+
